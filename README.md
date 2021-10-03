@@ -1,1 +1,0 @@
-# bank-smart-contract
